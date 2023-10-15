@@ -1,0 +1,23 @@
+.BlogItem{
+    position: relative;
+    margin-top: 150px;
+    width: 200px;
+    display: inline-block;
+    margin-right: 10px;
+    height: 180px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+a{
+    color: black;
+}
+h1{
+    font-size: 16px;
+}
+a{
+    position: absolute;
+    bottom: 0;
+
+}
